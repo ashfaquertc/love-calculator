@@ -1,9 +1,8 @@
 /*=============================
-    Made With ♥ By Al Nahian
+    Made With ♥ By Abir
   ============================*/
 // Start Code
-// 05 Sep July 2020
-// Al Nahian | https://alnahian2003.github.io
+// 02 February 2025
 
 // global variables
 var yourName = document.getElementById("yourname"),
